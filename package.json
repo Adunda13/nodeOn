@@ -1,0 +1,19 @@
+{
+  "name": "nodeon",
+  "version": "1.0.0",
+  "description": "testing node on git",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Adunda13/nodeOn.git"
+  },
+  "author": "adunda13",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Adunda13/nodeOn/issues"
+  },
+  "homepage": "https://github.com/Adunda13/nodeOn#readme"
+}
