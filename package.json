@@ -1,5 +1,5 @@
 {
-  "name": "nodeon",
+  "name": "gitpracticenode",
   "version": "1.0.0",
   "description": "testing node on git",
   "main": "index.js",
@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/Adunda13/nodeOn/issues"
   },
-  "homepage": "https://github.com/Adunda13/nodeOn#readme"
+  "homepage": "https://github.com/Adunda13/nodeOn#readme",
+  "keywords": [
+    "git",
+    "node"
+  ]
 }
